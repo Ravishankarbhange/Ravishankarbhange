@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on **EarthQuest Project**
 
 
+
 🤝 Let's Connect
 
 💼 LinkedIn: https://www.linkedin.com/in/Ravishankarbhange
@@ -10,9 +11,8 @@
 📧 Email: ravishankar.bhange@gmail.com
 
 ## **Featured Projects**
----
 
-Schedlr – AI-Powered Social Media Manager
+Schedlr – AI-Powered Social Media Manager | https://github.com/Schedlr-Team-10
 
 Tech Stack: Java, Spring Boot, React, Microservices, REST APIs, OAuth2
 
@@ -24,7 +24,7 @@ Key Highlights:
 - Mentored 8 junior engineers, fixing 10+ critical bugs and improving debugging time by ~10 hours/week.
 - Integrates LinkedIn, Twitter, and Pinterest, allowing scheduled posts with AI-generated descriptions (Open AI).
 
-OneStop Coding Dashboard – Car Parts Insights
+Code Station - OneStop Coding Dashboard | https://github.com/Ravishankarbhange/CodeStation
 
 Tech Stack: HTML, CSS, Bootstrap, JSP, Servlets, MySQL
 
