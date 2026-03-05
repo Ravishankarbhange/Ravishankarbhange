@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Shankar Bhange</h1>
-<h3 align="center">Software Engineer</h3> <br>
-- 🔭 I’m currently working on **EarthQuest Project**
+<h3 align="center">Software Engineer</h3> 
+- 🔭 I’m currently working on **EarthQuest Project** <br>
 
 
 
